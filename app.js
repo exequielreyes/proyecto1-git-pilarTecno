@@ -2,7 +2,7 @@
 var cowsay = require("cowsay");
 
 console.log(cowsay.say({
-    text : "Hola Muuuuuuuuuuuuuuundo",
+    text : "Hola Muuuuuuuuuuuuuuuuuuuuuundo",
     e : "oO",
     T : "U "
 }));
